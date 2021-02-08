@@ -1,8 +1,8 @@
 
 /*
 Lab 4
-Partners: Michael Seitz and ****
-Date: Feb 10, 2021
+Partners: Michael Seitz and Zachary Preszler
+Date: Feb 9, 2021
 */
 
 import java.util.Random;
